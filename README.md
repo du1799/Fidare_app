@@ -1,6 +1,6 @@
 # financial_app
 
-A new Flutter application.
+Aplicativo desenvolvido na disciplina de Programação para Dispositivos móveis - Fatec.
 
 ## Getting Started
 
